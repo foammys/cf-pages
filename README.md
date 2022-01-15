@@ -3,5 +3,5 @@
 Страницы ошибок/проверок для CloudFlare
 
 ```
-Демонстрация страниц: https://foammys.github.io
+Демонстрация страниц: demo.foammy.com
 ```

@@ -2,10 +2,6 @@
 
 Страницы ошибок/проверок для CloudFlare
 
-```
-Демонстрация страниц: demo.foammy.com
-```
-
 ## Лицензия
 
 Copyright © 2022 <a href="https://github.com/foammys">foammys</a>
